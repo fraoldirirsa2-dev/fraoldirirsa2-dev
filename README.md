@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Fraol
 
-<!--
-**fraoldirirsa2-dev/fraoldirirsa2-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Who am I?
 
-Here are some ideas to get you started:
+I'm a **Full Stack Flutter Developer** passionate about building fast, beautiful, and scalable mobile applications. I enjoy solving real-world problems with clean code and creating great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+
+- 📱 Cross-platform Flutter applications
+- 🎓 School Management System
+- ☁️ Firebase & Backend APIs
+- 🤖 Exploring AI integration in mobile apps
+
+## 🛠️ Tools & Technologies
+
+**Languages**
+
+- Dart
+- JavaScript
+- SQL
+
+**Frameworks**
+
+- Flutter
+- Node.js
+- Express.js
+
+**Database**
+
+- Firebase
+- MySQL
+- PostgreSQL
+- MongoDB
+
+**Tools**
+
+- Git & GitHub
+- VS Code
+- Android Studio
+- Postman
+- Figma
+
+## 📫 How to Reach Me
+
+- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/yourusername
+- 🌐 Portfolio: https://yourwebsite.com
+
+---
+
+> *"Building beautiful apps, one commit at a time."* 💙
